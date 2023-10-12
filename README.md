@@ -1,7 +1,7 @@
 # Hapag-Lloyd FoodAppHG - Food Ordering Application
 
 ## Description
-Hapag-Lloyd Café is a food ordering application designed for employees at the Mexico City site of Hapag-Lloyd AG. This application allows employees to conveniently place orders from the cafeteria, provides a clear view of inventory for the kitchen staff, and makes the cafeteria system more efficient, reducing food waste.
+Hapag-Lloyd FoodApp is a food ordering application designed for employees at the Mexico City site of Hapag-Lloyd AG. This application allows employees to conveniently place orders from the cafeteria, provides a clear view of inventory for the kitchen staff, and makes the cafeteria system more efficient, reducing food waste.
 
 This app is designed to allow users to place food orders for the upcoming week. Users select the days on which they wish to order food, and each week, the kitchen staff updates the menu to offer different choices to users. Users can then select specific day's meals and add them to an e-commerce cart for ordering, after logging into their user account.
 
