@@ -1,0 +1,53 @@
+/* App Create */
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+
+/**********************************/
+/* --- MAIN CSS --- */
+
+main{
+  min-height: 80vh;
+}
+
+h3{
+  padding: 1rem 0;
+}
+
+/* --- END MAIN CSS --- */
+
+
+/**********************************/
+/* --- Navbar CSS --- */
+
+/* Header.css */
+
+.navbar-nav .nav-link,
+.navbar-brand {
+  color: azure;
+  font-size: 20px;
+  transition: color 0.3s; /* Add a smooth color transition effect */
+}
+
+.navbar-nav .nav-link:hover {
+  color: lightblue; /* Change the color on hover */
+}
+
+/* IS NOT WORKINGGGGGG!!! */
+.navbar-brand:hover {
+  color: azure; /* Keep the brand color on hover */
+}
+
+
+/* --- END Navbar CSS --- */
