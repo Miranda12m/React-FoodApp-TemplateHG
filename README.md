@@ -9,10 +9,10 @@ The final product of this project was developed using React.js, Django, REST Fra
 
 ## Screenshots
 
-![Main Page](public/images/screenshots/ss01.png)
+![Main menu to select meals for the week](public/images/screenshots/ss01.png)
 _Main menu to select meals for the week._
 
-![Orders](public/images/screenshots/ss02.png)
+![Menu to add the food that you want to order for the day](public/images/screenshots/ss02.png)
 _Menu to add the food that you want to order for the day._
 
 ## Installation
