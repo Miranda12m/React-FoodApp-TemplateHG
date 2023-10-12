@@ -30,6 +30,8 @@ _Menu to add the food that you want to order for the day._
 - Bootstrap
 - Django (Final version, not available in the template)
 - REST Framework (Final version, not available in the template)
+- GraphQL
+- PostgreSQL
 
 ## Contact
 For questions or to connect, you can also visit [my LinkedIn profile](https://www.linkedin.com/in/miranda10am/).
